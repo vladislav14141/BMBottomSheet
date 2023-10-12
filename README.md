@@ -1,6 +1,7 @@
 # BMBottomSheet
+https://github.com/vladislav14141/BMBottomSheet/assets/45051757/0fc4c60b-45c1-4a9f-bd2a-a179882ebeb7
 
-https://github.com/vladislav14141/BMBottomSheet/assets/45051757/84f9cd89-b14e-4d34-8f9c-455b9d6e77ad
+
 
 Using:
 ```swift
